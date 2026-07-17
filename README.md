@@ -1,20 +1,17 @@
-<div align="center">
-
 ```text
-                    @@@@@@@@@@@@                     kyler@github
-                @@@@@@@@@@@@@@@@@@@@                 -------------
-              @@@@@@@@@@@@@@@@@@@@@@@@               OS        GitHub
-             @@@@@@@@@@@@@@@@@@@@@@@@@@              Host      Texas A&M University
-            @@@@@@@@@@@@@@@@@@@@@@@@@@@@             Shell     zsh
-            @@@@@@@@  @@@@@@  @@@@@@@@@@             Role      Software Engineer
-            @@@@@@@@  @@@@@@  @@@@@@@@@@             Focus     Agents · CLIs · Data
-            @@@@@@@@@@@@@@@@@@@@@@@@@@@@             Languages Python · Rust · TypeScript · C#
-             @@@@@@@@@@@@@@@@@@@@@@@@@@              Building  codex-axi
-              @@@@@@@@@@@@@@@@@@@@@@@@               Website   kylercao.com
-                @@@@@@@@@@@@@@@@@@@@
-                    @@@@@@@@@@@@
-                 ___/          \___
+      /\_/\         kyler@github
+     ( o.o )        ------------
+      > ^ <         OS         GitHub
+     /|   |\        Host       Texas A&M University
+    (_|   |_)       Shell      zsh
+      |   |         Role       Software Engineer
+      |___|         Focus      Agents · CLIs · Data
+     /     \        Languages  Python · Rust · TypeScript · C#
+    /_/   \_\       Building   codex-axi
+                    Website    kylercao.com
 ```
+
+<div align="center">
 
 ### hey, i'm kyler 👋
 
