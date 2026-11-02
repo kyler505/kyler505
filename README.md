@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/banner/kyler.dark.svg?color=4493f8,79c0ff&font=slim&shadow=rounded">
+  <img alt="Kyler" src="https://ascii.rest/banner/kyler.svg?color=0969da,4493f8&font=slim&shadow=rounded">
+</picture>
+
 ```text
  /\_/\
 ( o.o )  hey, i'm kyler
