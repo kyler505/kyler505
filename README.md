@@ -1,41 +1,29 @@
 ```text
-      /\_/\         kyler@github
-     ( o.o )        ------------
-      > ^ <         OS         GitHub
-     /|   |\        Host       Texas A&M University
-    (_|   |_)       Shell      zsh
-      |   |         Role       Software Engineer
-      |___|         Focus      Agents · CLIs · Data
-     /     \        Languages  Python · Rust · TypeScript · C#
-    /_/   \_\       Building   codex-axi
-                    Website    kylercao.com
+ /\_/\
+( o.o )  hey, i'm kyler
+ > ^ <   software engineer · texas a&m
 ```
 
-<div align="center">
+I build tools that make complex workflows feel simpler—from agent-native developer tools to desktop software and data pipelines. I like thoughtful interfaces, practical automation, and learning by building.
 
-### hey, i'm kyler 👋
+[Website](https://kylercao.com) · [LinkedIn](https://www.linkedin.com/in/kylercao/) · [GitHub](https://github.com/kyler505)
 
-I build agent-native developer tools, data pipelines, and useful software with sharp edges sanded off.
+### Selected projects
 
-[![Website](https://img.shields.io/badge/website-kylercao.com-161b22?style=flat-square&logo=safari&logoColor=white)](https://kylercao.com)
-[![GitHub followers](https://img.shields.io/github/followers/kyler505?style=flat-square&color=161b22&labelColor=161b22&logo=github)](https://github.com/kyler505?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=kyler505&style=flat-square&color=161b22&label=profile+views)](https://github.com/kyler505)
+**[codex-axi](https://github.com/kyler505/codex-axi)** — An agent-native control plane for Codex.
 
-</div>
+**[wayshare](https://github.com/kyler505/wayshare)** — Share a Hyprland desktop with a Mac using its built-in Screen Sharing app.
 
-```console
-$ ls featured/
+**[portfolio](https://github.com/kyler505/portfolio)** — My personal website, built with Rust.
 
-codex-axi/          agent-native control plane for Codex
-portfolio/          personal site built with Rust
-splitable/          scan a bill and split it with friends
-temp-data-pipeline/ weather data pipelines for forecasting
-```
+**[splitable](https://github.com/kyler505/splitable)** — Scan a bill and split it with friends.
 
-<div align="center">
+**[temp-data-pipeline](https://github.com/kyler505/temp-data-pipeline)** — Weather data pipelines for temperature forecasting.
 
-[![Kyler's GitHub activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyler505&theme=github_dark)](https://github.com/kyler505)
+### A few things I work with
+
+`Python`  `Rust`  `TypeScript`  `C#`  ·  agents, CLIs, data & desktop tools
+
+---
 
 <sub>always building · occasionally shipping · perpetually learning</sub>
-
-</div>
